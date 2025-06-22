@@ -1,3 +1,4 @@
+
 public class ExcelDocument implements Document {
     
     public void open(String name) {

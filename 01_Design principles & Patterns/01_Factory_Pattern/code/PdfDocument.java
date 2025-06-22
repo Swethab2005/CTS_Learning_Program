@@ -1,3 +1,4 @@
+
 public class PdfDocument implements Document {
     
     public void open(String name) {

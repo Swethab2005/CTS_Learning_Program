@@ -1,4 +1,5 @@
 
+
 public class WordDocument implements Document {
     
     public void open(String name) {
