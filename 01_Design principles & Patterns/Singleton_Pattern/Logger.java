@@ -24,7 +24,7 @@ public class Logger {
           } 
         }
     }
-        return log
+        return log;
     }
 */
 
