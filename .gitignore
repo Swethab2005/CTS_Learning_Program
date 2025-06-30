@@ -1,3 +1,6 @@
 *.class
-.~ckito_Basics.docx
-.~SL4J.docx
+# Ignore temporary Microsoft Word files
+.~*.docx
+
+# Ignore macOS system files
+.DS_Store
