@@ -12,6 +12,10 @@
 # Allow .gitignore itself
 !.gitignore
 
+# Allow the 04_Spring_Rest folder itself
+!04_Spring_Rest/
+!04_Spring_Rest/**
+
 # Allow everything under 04_Spring_Rest/OUTPUT
 !04_Spring_Rest/OUTPUT/
 !04_Spring_Rest/OUTPUT/**
@@ -42,3 +46,8 @@
 !04_Spring_Rest/spring-learn 6/src/**
 
 
+04_Spring_Rest/spring-learn*/.mvn/
+04_Spring_Rest/spring-learn*/.gitattributes
+04_Spring_Rest/spring-learn*/.gitignore
+04_Spring_Rest/spring-learn*/mvnw
+04_Spring_Rest/spring-learn*/mvnw.cmd
