@@ -4,4 +4,41 @@
 
 # Ignore macOS system files
 .DS_Store
-**/.idea/
+ 
+
+ # Ignore everything
+*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow everything under 04_Spring_Rest/OUTPUT
+!04_Spring_Rest/OUTPUT/
+!04_Spring_Rest/OUTPUT/**
+
+# Allow src/ and pom.xml from each spring-learn N folder
+!04_Spring_Rest/spring-learn/pom.xml
+!04_Spring_Rest/spring-learn/src/
+!04_Spring_Rest/spring-learn/src/**
+
+!04_Spring_Rest/spring-learn 2/pom.xml
+!04_Spring_Rest/spring-learn 2/src/
+!04_Spring_Rest/spring-learn 2/src/**
+
+!04_Spring_Rest/spring-learn 3/pom.xml
+!04_Spring_Rest/spring-learn 3/src/
+!04_Spring_Rest/spring-learn 3/src/**
+
+!04_Spring_Rest/spring-learn 4/pom.xml
+!04_Spring_Rest/spring-learn 4/src/
+!04_Spring_Rest/spring-learn 4/src/**
+
+!04_Spring_Rest/spring-learn 5/pom.xml
+!04_Spring_Rest/spring-learn 5/src/
+!04_Spring_Rest/spring-learn 5/src/**
+
+!04_Spring_Rest/spring-learn 6/pom.xml
+!04_Spring_Rest/spring-learn 6/src/
+!04_Spring_Rest/spring-learn 6/src/**
+
+
