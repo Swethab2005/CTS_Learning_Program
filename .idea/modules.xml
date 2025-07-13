@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Design principles &amp; Patterns/01_Factory_Pattern/01_Factory_Pattern.iml" filepath="$PROJECT_DIR$/01_Design principles &amp; Patterns/01_Factory_Pattern/01_Factory_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Data Structures and Algorithms/02_E-commerce Platform Search Function/02_E-commerce Platform Search Function.iml" filepath="$PROJECT_DIR$/01_Data Structures and Algorithms/02_E-commerce Platform Search Function/02_E-commerce Platform Search Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Design principles &amp; Patterns/02_Singleton_Pattern/02_Singleton_Pattern.iml" filepath="$PROJECT_DIR$/01_Design principles &amp; Patterns/02_Singleton_Pattern/02_Singleton_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Data Structures and Algorithms/07_Financial Forecasting/07_Financial Forecasting.iml" filepath="$PROJECT_DIR$/01_Data Structures and Algorithms/07_Financial Forecasting/07_Financial Forecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS_Learning_Program.iml" filepath="$PROJECT_DIR$/.idea/CTS_Learning_Program.iml" />
+    </modules>
+  </component>
+</project>
