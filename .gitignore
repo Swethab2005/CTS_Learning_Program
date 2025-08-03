@@ -72,3 +72,10 @@
 06_React/**/package.json
 06_React/**/package-lock.json
 06_React/**/README.md
+
+!07_React
+!07_React/** 
+07_React/**/.gitignore
+07_React/**/package.json
+07_React/**/package-lock.json
+07_React/**/README.md

@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.column {
+  padding: 20px;
+  width: 30%;
+  box-sizing: border-box;
+}
+
+.column:nth-child(2), .column:nth-child(3) {
+  border-left: 4px solid green;
+}
+
+h1, h3, h4 {
+  margin: 5px 0;
+}
+
+.btns {
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  
+}
